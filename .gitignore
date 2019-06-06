@@ -5,3 +5,7 @@ bin/
 .groovy/
 target/
 lib/
+
+#IDEA
+*.iml
+.idea/
